@@ -1,6 +1,16 @@
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Global Directory of Semiconductor Startups by Country
+# Semiconductors
+
+PSA: I created this repo to serve as learning point for those interested about semiconductors, willing to pursue a career.
+
+Resources:
+- 
+- List of global semiconductor startups
+
+- Roadmap to get your fairly started
+
+## Global Directory of Semiconductor Startups by Country
 
 ## North America
 
@@ -356,7 +366,46 @@
 - Morse Micro: [morsemicro.com](https://morsemicro.com)
 - Usound: [usound.com](https://usound.com)
 
-<div style="text-align: center">⁂</div>
+## Transitioning Into the Industry with Software Engineering Background
+
+### Fundamentals
+
+- Learn VLSI
+- Master Hardware Description Languages (Verilog/VHDL)
+- Study semiconductor physics basics
+- Understand chip design flow
+- Physical design
+- Verification
+- Embedded systems
+- Firmware development
+- DFT (Design for Test)
+
+### Tools
+
+- EDA tools (Cadence, Synopsys, Mentor Graphics)
+- Simulation software
+- Spice modeling
+- Version control for hardware
+
+### Career Path
+
+- Design Engineer → Senior Design Engineer → Design Manager
+- Verification Engineer → Validation Engineer → Architecture
+- Software Engineer → Firmware Engineer → Systems Architect
+
+### Tools
+
+- EDA tools (Cadence, Synopsys, Mentor Graphics)
+- Simulation software
+- Spice modeling
+- Version control for hardware
+
+### Career Path
+
+Design Engineer → Senior Design Engineer → Design Manager
+Verification Engineer → Validation Engineer → Architecture
+Software Engineer → Firmware Engineer → Systems Architect
+
 
 [^1]: https://github.com/aolofsson/awesome-semiconductor-startups
 
