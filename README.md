@@ -2,7 +2,7 @@
 
 # Semiconductors
 
-PSA: I created this repo to serve as learning point for those interested about semiconductors, willing to pursue a career.
+PSA: I created this repo to serve as learning point for those interested in semiconductors, willing to pursue a career in this industry.
 
 **Contributions are please accepted!**
 
