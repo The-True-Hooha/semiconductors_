@@ -4,6 +4,8 @@
 
 PSA: I created this repo to serve as learning point for those interested about semiconductors, willing to pursue a career.
 
+**Contributions are please accepted!**
+
 Resources:
 - 
 - List of global semiconductor startups
@@ -16,8 +18,8 @@ Resources:
 
 ### United States
 
-- Agita Labs: [agitalabs.com](https://agitalabs.com) - Processing security technology/IP
-- Ahead Computing: [aheadcomputing.com](https://aheadcomputing.com) - High performance RISC-V core IP
+- Agita Labs: [agitalabs.com](https://agitalabs.com)
+- Ahead Computing: [aheadcomputing.com](https://aheadcomputing.com)
 - Aistorm: [aistorm.ai](https://aistorm.ai)
 - Akeana: [akeana.com](https://akeana.com)
 - Alif Semiconductor: [alifsemi.com](https://alifsemi.com)
@@ -156,7 +158,6 @@ Resources:
 - ZeroASIC: [zeroasic.com](https://zeroasic.com)
 - ZeroPoint: [zeropoint-tech.com](https://zeropoint-tech.com)
 - zeroRISC: [zerorisc.com](https://zerorisc.com)
-
 
 ### Canada
 
